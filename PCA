@@ -1,0 +1,22 @@
+*PLINK was used for PCA*
+Options in effect:
+  --allow-extra-chr
+  --bfile C:\Users\micha\OneDrive\Documents\Thesis_data\target_qc_final
+  --out C:\Users\micha\OneDrive\Documents\Thesis_data\target_pca
+  --pca 10
+
+Random number seed: 1779331199
+7893 MB RAM detected; reserving 3946 MB for main workspace.
+372357 variants loaded from .bim file.
+10 people (4 males, 6 females) loaded from .fam.
+10 phenotype values loaded from .fam.
+Using up to 15 threads (change this with --threads).
+Before main variant filters, 10 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.986577.
+372357 variants and 10 people pass filters and QC.
+Among remaining phenotypes, 4 are cases and 6 are controls.
+Relationship matrix calculation complete.
+--pca: Results saved to
+C:\Users\micha\OneDrive\Documents\Thesis_data\target_pca.eigenval and
+C:\Users\micha\OneDrive\Documents\Thesis_data\target_pca.eigenvec .
